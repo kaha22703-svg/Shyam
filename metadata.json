@@ -1,0 +1,6 @@
+{
+  "name": "Mistri Connect",
+  "description": "विश्वसनीय मिस्त्री और काम देने वालों का प्लेटफ़ॉर्म - Mistry & Employer Jobs Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
